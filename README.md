@@ -1,1 +1,1 @@
-#Financial data analytics
+Financial data analytics
